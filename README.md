@@ -3,9 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/designcore.svg)](https://pypi.org/project/designcore/)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![CI](https://github.com/BlinkVoid/DesignCore/actions/workflows/tests.yml/badge.svg)](https://github.com/BlinkVoid/DesignCore/actions/workflows/tests.yml)
+[![CI](https://github.com/Figment-Foundry/DesignCore/actions/workflows/tests.yml/badge.svg)](https://github.com/Figment-Foundry/DesignCore/actions/workflows/tests.yml)
 
-> 🌐 [Project website](https://blinkvoid.github.io/DesignCore/)
+> 🌐 [Project website](https://figment-foundry.github.io/DesignCore/)
 
 > **Verified diagrams for documentation** — draw.io, Mermaid, or Excalidraw,
 > from a spec your AI agent can actually be trusted to write.
@@ -52,7 +52,7 @@ uv tool install designcore
 pip install designcore
 
 # Or from a clone, for development
-git clone https://github.com/BlinkVoid/DesignCore.git && cd DesignCore
+git clone https://github.com/Figment-Foundry/DesignCore.git && cd DesignCore
 uv sync
 uv run designcore doctor
 ```
